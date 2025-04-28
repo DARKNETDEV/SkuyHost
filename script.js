@@ -1,6 +1,6 @@
 const config = {
     "name_server": "SkuyTopia",
-    "name_developer": "ScripZer",
+    "name_developer": "DARKNET",
     "url": {
         "vhost": "https://gtpshost.com/skuytopiaa.txt",
         "ptunnel": "https://download.gtpshost.com/skuytopiaa"
