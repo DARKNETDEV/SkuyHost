@@ -1,9 +1,9 @@
 const config = {
-    "name_server": "Server Name",
-    "name_developer": "Eikarna",
+    "name_server": "SkuyTopia",
+    "name_developer": "ScripZer",
     "url": {
-        "vhost": "YOUR_MEDIAFIRE_URL",
-        "ptunnel": "YOUR_PTUNNEL_URL"
+        "vhost": "https://gtpshost.com/skuytopiaa.txt",
+        "ptunnel": "https://download.gtpshost.com/skuytopiaa"
     },
     "path": {
         "online": "../Online.txt",
